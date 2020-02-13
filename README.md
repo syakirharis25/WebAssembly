@@ -8,7 +8,7 @@ My works related to WebAssembly .
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="code-blocks.jpg" height="170"> 
+<img src="webassembly.png" height="170"> 
 WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling deployment on the web for client and server applications.
 
 The main goal of WebAssembly is to enable high-performance applications on web pages, but the format is designed to be executed and integrated in other environments as well. WebAssembly became a World Wide Web Consortium recommendation on 5 December 2019 and, alongside HTML, CSS, and JavaScript, it is the fourth language to run natively in browsers. 
