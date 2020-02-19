@@ -5,6 +5,7 @@ My works related to WebAssembly .
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -30,3 +31,15 @@ $ git clone https://github.com/syakirharis25/WebAssembly.git
 $ cd WebAssembly/
 $ git remote -v
 $ git status
+```
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              7              0             25
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
