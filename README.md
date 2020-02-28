@@ -26,6 +26,9 @@ Emscripten official website : https://emscripten.org <br />
 **_WebAssembly related technologies_**
 Express : https://expressjs.com <br />
 
+**_WebAssembly playground_**
+WebAssembly playground by wasdk : https://wasdk.github.io/WasmFiddle/
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
