@@ -31,6 +31,7 @@ WebGL : https://get.webgl.org <br />
 **_WebAssembly documentation by Mozilla_** <br />
 WebAssembly.instantiateStreaming() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiateStreaming <br />
 WebAssembly.Instance by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance <br />
+WebAssembly.Module.exports() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module/exports <br />
 
 **_WebAssembly related articles_** <br />
 Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running <br />
