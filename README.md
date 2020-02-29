@@ -35,6 +35,7 @@ Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/
 
 **_WebAssembly projects_** <br />
 Qt on the web : https://www.qt.io/qt-examples-for-webassembly <br />
+squoosh : https://squoosh.app/ <br />
 
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
