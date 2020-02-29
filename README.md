@@ -34,16 +34,18 @@ WebAssembly.instantiateStreaming() by Mozilla : https://developer.mozilla.org/en
 Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running <br />
 Fast, parallel applications with WebAssembly SIMD by v8.dev : https://v8.dev/features/simd <br />
 WebAssembly and SIMD by Nick Lewycky : https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8 <br />
+Emscripting a C library to Wasm by Surma : https://developers.google.com/web/updates/2018/03/emscripting-a-c-library <br />
+An Introduction to Web Assembly by Codelabs : https://codelabs.developers.google.com/codelabs/web-assembly-intro/ <br /> 
 
 **_WebAssembly projects_** <br />
 Qt on the web : https://www.qt.io/qt-examples-for-webassembly <br />
 squoosh : https://squoosh.app/ <br />
+WebAssembly proposals : https://github.com/webassembly/proposals <br />
 
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
 Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
 Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
-
 
 <a name="github"></a>
 ## 3. GitHub notes.
