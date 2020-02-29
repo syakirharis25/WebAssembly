@@ -27,6 +27,9 @@ Emscripten official website : https://emscripten.org <br />
 Express : https://expressjs.com <br />
 WebAssembly by wasdk : https://wasdk.github.io/WasmFiddle <br />
 
+**_WebAssembly documentation by Mozilla_** <br />
+WebAssembly.instantiateStreaming() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiateStreaming <br />
+
 **_WebAssembly related articles_** <br />
 Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running <br />
 
