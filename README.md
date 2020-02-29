@@ -1,5 +1,5 @@
 # WebAssembly
-My works related to WebAssembly .
+My works related to WebAssembly.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
@@ -39,6 +39,7 @@ squoosh : https://squoosh.app/ <br />
 
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
+Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
