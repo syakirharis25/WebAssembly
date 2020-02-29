@@ -19,14 +19,14 @@ In order to use Wasm in browsers, users may use Emscripten SDK to compile C++ (o
 The World Wide Web Consortium (W3C) maintains the standard with contributions from Mozilla, Microsoft, Google, and Apple.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites. 
 WebAssembly official website : https://webassembly.org <br />
 Emscripten official website : https://emscripten.org <br />
 
-**_WebAssembly related technologies_**
+**_WebAssembly related technologies_** <br />
 Express : https://expressjs.com <br />
 
-**_WebAssembly playground_**
+**_WebAssembly playground_** <br />
 WebAssembly playground by wasdk : https://wasdk.github.io/WasmFiddle/
 
 <a name="github"></a>
