@@ -12,13 +12,19 @@
   <h1>WebAssembly Demo</h1>
 
   <script>
-    WebAssembly.instantiateStreaming(fetch('/program.wasm'))
+
+    const impprts = {
+      env: {
+        consoleLog: console.log
+      }
+    }
+    WebAssembly.instantiateStreaming(fetch('/program.wasm'), imports)
       .then(wasm => {
         console.log('WASM Ready')
 
         window.wasm = wasm
 
-        console.log(wasm.instance.exports.getDoubleNumber(80))
+        wasm.instance.exports.getDoubleNumber(33)
       })
   </script>
 
