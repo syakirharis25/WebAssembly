@@ -42,6 +42,7 @@ An Introduction to Web Assembly by Codelabs : https://codelabs.developers.google
 Qt on the web : https://www.qt.io/qt-examples-for-webassembly <br />
 squoosh : https://squoosh.app/ <br />
 WebAssembly proposals : https://github.com/webassembly/proposals <br />
+WebAssembly Explorer : https://mbebenita.github.io/WasmExplorer/ <br />
 
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
