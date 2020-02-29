@@ -25,9 +25,7 @@ Emscripten official website : https://emscripten.org <br />
 
 **_WebAssembly related technologies_** <br />
 Express : https://expressjs.com <br />
-
-**_WebAssembly playground_** <br />
-WebAssembly playground by wasdk : https://wasdk.github.io/WasmFiddle <br />
+WebAssembly by wasdk : https://wasdk.github.io/WasmFiddle <br />
 
 **_WebAssembly related articles_** <br />
 Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running <br />
