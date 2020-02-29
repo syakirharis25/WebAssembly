@@ -33,6 +33,9 @@ WebAssembly.instantiateStreaming() by Mozilla : https://developer.mozilla.org/en
 **_WebAssembly related articles_** <br />
 Loading and running WebAssembly code by Mozilla : https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running <br />
 
+**_WebAssembly projects_** <br />
+Qt on the web : https://www.qt.io/qt-examples-for-webassembly <br />
+
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
 
