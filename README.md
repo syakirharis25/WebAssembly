@@ -40,6 +40,7 @@ squoosh : https://squoosh.app/ <br />
 **_WebAssembly developers_** <br />
 Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
 Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
+Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
