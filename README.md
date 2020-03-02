@@ -4,8 +4,9 @@ My works related to WebAssembly.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [WebAssembly developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -46,13 +47,14 @@ squoosh : https://squoosh.app/ <br />
 WebAssembly proposals : https://github.com/webassembly/proposals <br />
 WebAssembly Explorer : https://mbebenita.github.io/WasmExplorer/ <br />
 
-**_WebAssembly developers_** <br />
-Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
-Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
-Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
+<a name="developers"></a>
+## 3. WebAssembly developers.
+1 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
+2 - Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
+3 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
 
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/WebAssembly.git
@@ -62,7 +64,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
