@@ -49,9 +49,9 @@ WebAssembly Explorer : https://mbebenita.github.io/WasmExplorer/ <br />
 
 <a name="developers"></a>
 ## 3. WebAssembly developers.
-1 - Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
-2 - Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
-3 - Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
+Deepti Gandluri : https://github.com/dtig, https://twitter.com/dptig <br />
+Lin Clark : https://github.com/linclark, https://twitter.com/linclark <br />
+Surma : https://github.com/surma, https://twitter.com/DasSurma, https://surma.dev <br />
 
 <a name="github"></a>
 ## 4. GitHub notes.
